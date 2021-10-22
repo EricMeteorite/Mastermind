@@ -1,0 +1,11 @@
+﻿  Board.cpp
+  Game.cpp
+E:\C++\Mastermind\Game.cpp(842,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\Mastermind\Game.cpp(843,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\Mastermind\Game.cpp(844,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\Mastermind\Game.cpp(923,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\C++\Mastermind\Game.cpp(924,26): warning C4018: “<”: 有符号/无符号不匹配
+  Mastermind.cpp
+  Player.cpp
+  正在生成代码...
+  Mastermind.vcxproj -> E:\C++\Mastermind\Debug\Mastermind.exe

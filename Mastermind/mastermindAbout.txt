@@ -1,0 +1,45 @@
+##########################################################################
+                          WE NEED YOUR HELP!
+##########################################################################
+Please read this file after you START Decrypt!!!!!
+##########################################################################
+There are 2 roles, 1 is Code Maker, 2 is Code Breaker.
+-------------------------------------------------------------------
++ First, let Code Maker set a password. In the game, there is 
+a row of holes at one end of the board, and the code breaker 
+is invisible. Code Maker requires to set a total of 4 elements 
+within 8 elements for password, and then put them in that 
+row of holes in any order. For Code Breaker to guess.
+
++ Then, Code Breaker now needs to try to find the passwords 
+by selecting 4 numbers at a time and arrange them in the 
+order they think they match the passwords.
+
++ After each guess of Code Breaker, Code Maker will provide 
+corresponding clues: If the guess is the correct position and 
+the correct number, it will display number after 'B' (Black), 
+and only the correct number will display number after 'W’
+(White), But the position is wrong and the number is not 
+correct, it will not be displayed.
+
++ Code Breaker have to guess the code password in 10 times, 
+otherwise they will lose in this round of the game. Conversely, 
+when all the numbers in the password are guessed and they 
+are in the correct position, Code Breaker will win the game.
+
++ If Code Breaker WINS, the score for each round is "the 
+number of remaining 10 chances" * 100 + 200 points, and the 
+Code Maker score is "the number of players used" * 100 points.
+
++ If Code Breaker LOSES, Code Maker gets 10 * 100 + 200 points, 
+and Code Breaker does not score.
+
++ Note: When Code Breaker uses Hint, each Hint will immediately 
+subtract 200 points.
+
++ When one of the players reaches 5000 Score, the game 
+is won.
+
+The above is the introduction for Mastermind. This will be stored 
+in mastermindAbout.txt and is loaded at the start of the game 
+for the player to read.
